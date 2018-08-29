@@ -1,0 +1,40 @@
+<resources>
+    <string name="nothing_entered"></string>
+    <string name="app_name">Open Messenger</string>
+
+    // Main Activity
+    <string name="login_tab">LOGIN</string>
+    <string name="register_tab">REGISTER</string>
+    <string name="email_Field">USERNAME</string>
+    <string name="password_Field">PASSWORD</string>
+    <string name="password_confirm_field">CONFIRM PASSWORD</string>
+    <string name="switch_keep_stored">KEEP ME LOGGED IN</string>
+    <string name="done_Button">DONE</string>
+    <string name="optioal">OPTL</string>
+    <string name="asterix">*</string>
+    <string name="firstNameField">FIRST NAME</string>
+    <string name="lastNameField">LAST NAME</string>
+    <string name="phoneNumberField">Phone Number</string>
+
+    // Main 2 Activity
+    <string name="addContact">Contact Name</string>
+    <string name="contactNameField">CONTACT USERNAME or PHONE #</string>
+    <string name="addContactButton">ADD</string>
+
+    // Main 3 Activity
+    <string name="sendMessageTextHint">Hey.. your words go here</string>
+    <string name="whoesContacting">CONTACTING...</string>
+    <string name="contactString">CONTACT</string>
+    <string name="messageSendString">TextHere</string>
+    <string name="sendButton">SEND</string>
+
+    // Phone Number Verification
+    <string name="phoneInfoVerifyLabel">Type the 4 digit verification code you received from SMS.</string>
+    <string name="verifyEditTextHint">Verification Code</string>
+    <string name="verifyNumberButton">VERIFY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usernameRecieve">UsernamePassedOver</string>
+    <string name="openTutText">Be sure to add \"@open.com\" to your username</string>
+</resources>

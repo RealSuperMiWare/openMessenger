@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "762691390067",
+    "firebase_url": "https://openmessangerdata.firebaseio.com",
+    "project_id": "openmessangerdata",
+    "storage_bucket": "openmessangerdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762691390067:android:2d1625a78becaac1",
+        "android_client_info": {
+          "package_name": "com.openmessanger.supermiware.openmessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762691390067-l1chv2lajfmu25gdoo7im3o6hf7ahajj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openmessanger.supermiware.openmessanger",
+            "certificate_hash": "0948e16d2ae9456acbb0ea90e1cd24354d15cdcd"
+          }
+        },
+        {
+          "client_id": "762691390067-ii3brb7q7a73q3b1ebmn5aqae0p2rmrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0zEQPMBqbETylRyc2Br6c9HWXLH99e0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762691390067-ii3brb7q7a73q3b1ebmn5aqae0p2rmrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762691390067:android:aa9ee7e5f30a7b2c",
+        "android_client_info": {
+          "package_name": "com.openmessenger.supermiware.openmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762691390067-v5746pvgvp2to4r08hu5u10ivsnrtdia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openmessenger.supermiware.openmessenger",
+            "certificate_hash": "38309f1c7dca7c0f621bed7c536e32cb1b6a5807"
+          }
+        },
+        {
+          "client_id": "762691390067-ii3brb7q7a73q3b1ebmn5aqae0p2rmrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0zEQPMBqbETylRyc2Br6c9HWXLH99e0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762691390067-ii3brb7q7a73q3b1ebmn5aqae0p2rmrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
